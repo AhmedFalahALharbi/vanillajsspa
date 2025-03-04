@@ -30,11 +30,6 @@ A single-page application (SPA) built with JavaScript, Redux, Tailwind CSS, and 
 - **AJAX/Fetch API:** Fetch tasks from the API.
 - **localStorage:** Persist tasks across sessions.
 
-## File Structure
-
-
-. ├── index.html # HTML structure with CDNs └── src └── app.js # JavaScript with state management and logic
-
 
 ## Getting Started
 
